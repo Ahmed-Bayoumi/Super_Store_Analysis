@@ -1,4 +1,4 @@
-# 🛒 Super Store Sales Analysis (Python Project)
+# 🛒 Super Store Sales Analysis
 
 ## 📄 Dataset Description
 
