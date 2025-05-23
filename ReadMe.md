@@ -85,18 +85,4 @@ The following questions were addressed using Python and visualized using Matplot
 - **Chart Type:** Vertical Bar Chart.
 - **Insight:** Highlights strong geographic markets for the business.
 
----
 
-## 🛠️ Tools Used
-
-- **Language:** Python  
-- **Libraries:** Pandas, Matplotlib, Seaborn  
-- **Notebook:** Jupyter Notebook (`Super_Store_DA.ipynb`)
-
----
-
-## 📁 How to Run
-
-1. Install required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn
