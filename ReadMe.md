@@ -30,11 +30,11 @@ The purpose of this analysis is to:
 The following questions were addressed using Python and visualized using Matplotlib and Seaborn:
 
 1. What are the total sales and total profit?
-2. What are the top 10 best-selling products?
+2. What are the top best-selling products?
 3. How do monthly sales change over time?
 4. Which regions generate the highest sales?
 5. Which product categories are most profitable?
-6. What are the top 10 states in terms of sales?
+6. What are the top states in terms of sales?
 
 ---
 
